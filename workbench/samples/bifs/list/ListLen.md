@@ -31,7 +31,7 @@ Get the number of elements in this list, including empty values
 <a href="https://try.boxlang.io/?code=eJzLySwu8UnN01BQSsvP10lKLNLRATKMlHQUlHRARKRrsJKCpjUXAPzbCqY%3D" target="_blank">Run Example</a>
 
 ```java
-listLen( "foo,bar,,foo2", ",", "YES" );
+listLen( "foo,bar,,foo2", ",", true );
 
 ```
 
